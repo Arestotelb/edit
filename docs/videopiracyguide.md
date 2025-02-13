@@ -769,6 +769,7 @@
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets on Files
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Signup Required
+* ⭐ **[KinoBuhta](https://kinibuhta.online/)** - Movies / TV / 4K / Signup Required
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.ci/) - Multi-Site Search
